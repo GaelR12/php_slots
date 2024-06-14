@@ -1,0 +1,6 @@
+# Ingore all class files
+*.class
+
+# Ingore other common files 
+*.log
+*.tmp
